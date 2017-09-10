@@ -28,7 +28,7 @@
     1. You Can Play With Your Friend.
     2. You Can Play With Computer Also.
 #### Download
-Download the [latest release](https://github.com/satya00089/C-Sharp-Project/releases).
+Download the [latest release](https://github.com/satya00089/TicTacToe/releases/tag/1.0).
 #### Requirements
 Microsoft [.NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=53344) or higher.
 #### Developed By
